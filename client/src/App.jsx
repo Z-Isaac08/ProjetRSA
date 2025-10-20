@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Lock, Send, Key, Users, MessageCircle, Eye, EyeOff, Shield, Download, Trash2 } from 'lucide-react';
 
 // Configuration API - Modifier selon votre environnement
-const API_BASE_URL = 'http://localhost:3000';
+const API_BASE_URL = 'http://192.168.1.79:3000';
 
 // ============================================
 // UTILITAIRES CRYPTOGRAPHIQUES
